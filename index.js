@@ -1,6 +1,6 @@
 const { ApolloServer } = require("apollo-server")
 const gql = require('graphql-tag')
-const { Server } = require("ws")
+
 
 const { users } = require("./FakeData")
 
